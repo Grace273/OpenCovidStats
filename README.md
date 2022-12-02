@@ -1,2 +1,0 @@
-"# OpenCovid" 
-"# OpenCovid" 
